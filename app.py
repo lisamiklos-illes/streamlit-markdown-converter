@@ -205,7 +205,8 @@ def main():
     st.divider()
     st.markdown(
         "<div style='text-align: center; color: gray; font-size: 0.9em;'>"
-        "Built with ❤️ using Streamlit and MarkItDown"
+        "Built by Lisa Miklos-Illes using Streamlit and MarkItDown<br>"
+        "Report bugs/issues via <a href='https://lisamiklos-illes.com' target='_blank'>contact form</a>"
         "</div>",
         unsafe_allow_html=True
     )
