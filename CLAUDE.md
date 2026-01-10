@@ -19,7 +19,7 @@ All dependencies MUST be specified in `requirements.txt` at the project root. St
 
 ```
 streamlit
-markitdown
+markitdown[all]
 ```
 
 Add any additional dependencies to `requirements.txt` as needed. Do NOT use `pip install` commands in code or expect local installations.
